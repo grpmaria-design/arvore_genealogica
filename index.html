@@ -1,0 +1,77 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Árvore da Família</title>
+<meta name="description" content="Árvore genealógica da família: seis gerações, fotos e parentescos.">
+<meta name="theme-color" content="#f4efe6">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Ccircle cx='16' cy='16' r='16' fill='%2322382c'/%3E%3Cpath d='M16 25V14M16 18l-5-5M16 16l5-5M16 21l-7-3M16 20l7-3' stroke='%23e0b36a' stroke-width='2' stroke-linecap='round' fill='none'/%3E%3C/svg%3E">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,500;0,600;1,500;1,600&family=Manrope:wght@400;500;600;700&display=swap">
+<link rel="stylesheet" href="assets/estilo.css">
+</head>
+<body class="grao">
+
+<!-- Abertura: é o que aparece ao escanear o QR code -->
+<section id="inicio" class="inicio">
+  <button class="icone tema-flutuante" data-tema aria-label="Alternar tema claro/escuro"></button>
+  <div class="inicio-conteudo">
+    <svg id="leque" class="leque surge" style="--d:.05s" aria-hidden="true"></svg>
+    <p class="sobre-titulo surge" style="--d:.25s">Árvore genealógica</p>
+    <h1 class="surge" style="--d:.35s"><span class="h1-pre">Família</span><span class="h1-nome" id="nome-familia"></span></h1>
+    <p class="lead surge" style="--d:.5s">Uma só raiz, muitos ramos. Conheça quem veio antes, quem está aqui e como cada um de nós se encontra nesta história.</p>
+    <ul class="numeros surge" style="--d:.6s" id="numeros"></ul>
+    <div class="cta surge" style="--d:.7s">
+      <button class="btn btn-primario" data-entrar="arvore"></button>
+      <button class="btn" data-entrar="parentesco"></button>
+    </div>
+    <p class="rodape-inicio surge" style="--d:.9s">Toque em qualquer pessoa para ver fotos e histórias</p>
+  </div>
+</section>
+
+<!-- Aplicação -->
+<div id="app" class="app" hidden>
+  <header class="topo">
+    <button class="marca" id="marca" aria-label="Voltar à abertura"></button>
+    <nav class="abas" role="tablist" aria-label="Seções">
+      <button class="aba" role="tab" data-aba="arvore" aria-selected="true"></button>
+      <button class="aba" role="tab" data-aba="geracoes" aria-selected="false"></button>
+      <button class="aba" role="tab" data-aba="parentesco" aria-selected="false"></button>
+    </nav>
+    <div class="acoes-topo">
+      <button class="btn-busca" id="abrir-busca" aria-label="Buscar pessoa"></button>
+      <button class="icone" data-tema aria-label="Alternar tema claro/escuro"></button>
+    </div>
+  </header>
+
+  <main>
+    <section class="vista" id="v-arvore" role="tabpanel">
+      <div class="arvore-vp" id="arvore-vp"><div class="palco" id="palco"></div></div>
+      <div class="controles" id="controles"></div>
+      <p class="dica" id="dica">Arraste para navegar · pinça ou roda para zoom</p>
+    </section>
+    <section class="vista rolavel" id="v-geracoes" role="tabpanel" hidden></section>
+    <section class="vista rolavel" id="v-parentesco" role="tabpanel" hidden></section>
+  </main>
+</div>
+
+<div class="veu" id="veu"></div>
+<aside class="painel" id="painel" aria-label="Perfil"></aside>
+
+<dialog class="busca" id="busca" aria-label="Buscar pessoa">
+  <div class="busca-campo">
+    <span id="busca-ico"></span>
+    <input id="busca-input" type="search" placeholder="Buscar pelo nome…" autocomplete="off" spellcheck="false">
+  </div>
+  <div class="busca-lista" id="busca-lista" role="listbox"></div>
+</dialog>
+
+<dialog class="visor" id="visor"></dialog>
+<div class="toast" id="toast" role="status"></div>
+
+<script src="dados.js"></script>
+<script src="assets/app.js"></script>
+</body>
+</html>

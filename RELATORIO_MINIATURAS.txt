@@ -1,0 +1,74 @@
+MINIATURAS REVISTAS — versão com enquadramento conservador
+Nenhuma foto é descartada quando não se detecta um rosto. Fotos originais intactas.
+Fotos com mais de uma pessoa devem ser conferidas para garantir a identidade.
+
+P001: foto completa (rosto muito próximo) — fotos/Professora Maria de Jesus Pacheco Guimarães.jpeg
+P002: recorte moderado com margem superior — fotos/Samuel Amaral Guimarães.jpeg
+P003: foto completa (rosto muito próximo) — fotos/Maria da Conceição Moreira de Andrade.jpeg
+P004: recorte moderado com margem superior — fotos/Circeia Terezinha.jpeg
+P005: recorte moderado com margem superior — fotos/Maria José Pacheco Guimarães.jpeg
+P006: foto completa (rosto muito próximo) — fotos/Augustinho Moreira de Andrade.jpeg
+P007: foto completa (sem detecção confiável) — fotos/Ubaldino Clemente de Souza.jpeg
+P008: foto completa (rosto muito próximo) — fotos/Walter Ogibowski.jpeg
+P010: recorte moderado com margem superior — fotos/Soeli Moreira do Nascimento.jpeg
+P011: foto completa (rosto muito próximo) — fotos/Silvio Fernando de Andrade.jpeg
+P012: foto completa (rosto muito próximo) — fotos/Silvani Moreira de Andrade.jpeg
+P013: foto completa (rosto muito próximo) — fotos/Antônio Moreira de Andrade.jpeg
+P014: recorte moderado com margem superior — fotos/Maria Helena Moreira de Andrade.jpeg
+P015: foto completa (rosto muito próximo) — fotos/Mariza Moreira de Andrade.jpeg
+P016: foto completa (rosto muito próximo) — fotos/Rita Moreira de Andrade.jpeg
+P017: foto completa (rosto muito próximo) — fotos/Sandro Moreira de Andrade.jpeg
+P018: recorte moderado com margem superior — fotos/Ivone Clemente de Souza.jpeg
+P019: foto completa (rosto muito próximo) — fotos/Wilson Clemente de Souza.jpeg
+P020: foto completa (rosto muito próximo) — fotos/Marcos Antônio Clemente de Souza.jpeg
+P021: foto completa (rosto muito próximo) — fotos/Luiz Alberto Ogibowski.jpeg
+P022: recorte moderado com margem superior — fotos/José Gomes.jpeg
+P023: recorte moderado com margem superior — fotos/Zico Pedroso do Nascimento.jpeg
+P024: recorte moderado com margem superior — fotos/Maria Ribeiro de Andrade.jpeg
+P025: foto completa (rosto muito próximo) — fotos/Valdir Correia.jpeg
+P026: foto completa (rosto muito próximo) — fotos/Marilda Moreira de Andrade.jpeg
+P027: foto completa (rosto muito próximo) — fotos/Luis Carlos Calixto Braga.jpeg
+P028: foto completa (rosto muito próximo) — fotos/Claudete Maria Schneider Ogibowski.jpeg
+P029: foto completa (rosto muito próximo) — fotos/Larissa Ully Batista Gomes.jpeg
+P030: foto completa (rosto muito próximo) — fotos/Fernanda de Cássia Nascimento Camargo.jpeg
+P031: foto completa (rosto muito próximo) — fotos/Leonardo Pedroso do Nascimento.jpeg
+P032: foto completa (rosto muito próximo) — fotos/Paula Suliane de Andrade.jpeg
+P033: foto completa (sem detecção confiável) — fotos/Fabio Fernando de Andrade.jpeg
+P034: foto completa (rosto muito próximo) — fotos/Amanda Maria Andrade Correia.jpeg
+P035: recorte moderado com margem superior — fotos/Alef Morgado de Andrade.jpeg
+P036: foto completa (sem detecção confiável) — fotos/João Eugênio Andrade de Souza.jpeg
+P037: foto completa (rosto muito próximo) — fotos/Amélia Maria de Andrade Oliveira.jpeg
+P038: foto completa (rosto muito próximo) — fotos/Anthony Moreira de Andrade.jpeg
+P039: foto completa (rosto muito próximo) — fotos/Pedro Antônio Ogibowski.jpeg
+P040: foto completa (rosto muito próximo) — fotos/Mariana Ogibowski.jpeg
+P041: foto completa (rosto muito próximo) — fotos/Rafael José Gomes.jpeg
+P042: foto completa (rosto muito próximo) — fotos/Maria Carolina Gomes.jpeg
+P043: recorte moderado com margem superior — fotos/Júlio César Fernandez Camargo.jpeg
+P044: recorte moderado com margem superior — fotos/Danieli Aparecida Lobachinski.jpeg
+P045: foto completa (rosto muito próximo) — fotos/Carolina Rodrigues Depaoli Ogibowski.jpeg
+P046: recorte moderado com margem superior — fotos/Gabriel Nascimento Camargo.jpeg
+P047: recorte moderado com margem superior — fotos/Gustavo Nascimento Camargo.jpeg
+P048: recorte moderado com margem superior — fotos/Guilherme Nascimento Camargo.jpeg
+P049: foto completa (rosto muito próximo) — fotos/Bianca Calixto Braga.jpeg
+P050: recorte moderado com margem superior — fotos/Bruna Braga Volpe.jpeg
+P051: foto completa (rosto muito próximo) — fotos/Luis Carlos Calixto Braga Junior.jpeg
+P052: recorte moderado com margem superior — fotos/Noah Leonardo Pedroso do Nascimento.jpeg
+P053: foto completa (rosto muito próximo) — fotos/João Leonardo Pedroso do Nascimento.jpeg
+P054: foto completa (rosto muito próximo) — fotos/Gustavo Andrade Teixeira.jpeg
+P055: foto completa (sem detecção confiável) — fotos/Murilo Basso de Andrade.jpeg
+P056: foto completa (rosto muito próximo) — fotos/Ricardo Volpe.jpeg
+P057: foto completa (rosto muito próximo) — fotos/Isabela Braga de Lara.jpeg
+P058: recorte moderado com margem superior — fotos/Henrique Braga de Lara.jpeg
+P059: recorte moderado com margem superior — fotos/Pedro Augusto Braga Volpe.jpeg
+P060: recorte moderado com margem superior — fotos/Samuel Braga Volpe.jpeg
+P061: foto completa (rosto muito próximo) — fotos/Giovana Lacerda Braga.jpeg
+P062: foto completa (rosto muito próximo) — fotos/Marcia Lacerda Braga.jpeg
+P063: foto completa (rosto muito próximo) — fotos/Juliana Lacerda Braga.jpeg
+P064: recorte moderado com margem superior — fotos/Marcos Paulo de Souza.jpeg
+P065: recorte moderado com margem superior — fotos/Samuel de Souza.jpeg
+P066: recorte moderado com margem superior — fotos/Bento Bonin Braga.jpeg
+P067: foto completa (sem detecção confiável) — fotos/Giovane Andrade Teixeira.jpeg
+P068: foto completa (sem detecção confiável) — fotos/Anderson Antunes Teixeira.jpeg
+P069: recorte moderado com margem superior — fotos/Ana Beatriz Ribeiro Camargo.jpeg
+P070: foto completa (sem detecção confiável) — fotos/Maria Eduarda Moliani Dangui.jpeg
+P071: recorte moderado com margem superior — fotos/Ireni Morgado.jpeg
