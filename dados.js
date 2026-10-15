@@ -89,7 +89,7 @@ const PESSOAS = [
   { id: "P067", nome: "Giovane Andrade Teixeira", g: 5, sexo: "M", relacao: "Trineto", pais: ["P032", "P068"], foto: "fotos/Giovane Andrade Teixeira.jpeg" },
   { id: "P068", nome: "Anderson Antunes Teixeira", g: 4, sexo: "M", relacao: "Cônjuge de bisneta", pais: [], conjuge: "P032", foto: "fotos/Anderson Antunes Teixeira.jpeg" },
   { id: "P069", nome: "Ana Beatriz Ribeiro Camargo", g: 5, sexo: "F", relacao: "Cônjuge de trineto(a)", pais: [], conjuge: "P046", foto: "fotos/Ana Beatriz Ribeiro Camargo.jpeg" },
-  { id: "P070", nome: "Maria Eduarda Moliani Dangui", g: 4, sexo: "F", relacao: "Cônjuge de bisneto(a)", pais: [], foto: "fotos/Maria Eduarda Moliani Dangui.jpeg" },
+  { id: "P070", nome: "Maria Eduarda Moliani Dangui", g: 4, sexo: "F", relacao: "Cônjuge de bisneto(a)", pais: [], conjuge: "P036", foto: "fotos/Maria Eduarda Moliani Dangui.jpeg" },
   { id: "P071", nome: "Ireni Morgado", g: 3, sexo: "F", relacao: "Divorciada", pais: [], foto: "fotos/Ireni Morgado.jpeg" },
 ];
 
